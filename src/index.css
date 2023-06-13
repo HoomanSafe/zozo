@@ -1,0 +1,12 @@
+@import url("https://fonts.cdnfonts.com/css/belvesnut-sans");
+@import url("https://fonts.cdnfonts.com/css/clash-display");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer {
+  img {
+    @apply mx-auto;
+  }
+}
