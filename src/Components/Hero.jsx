@@ -7,16 +7,16 @@ const Hero = () => {
       <div className="container grid gap-5 text-center justify-center items-center">
         <img src={Logo} alt="" className="md:w-[30rem]" />
         <h1 className="font-bold text-5xl capitalize font-primary">
-          Black Ether's 
-          
+          Black Ether
+
         </h1>
         <p className="max-w-[600px] ">
-          A mischievous little black sheep named Ethel, leads the charge in
-          bringing humor and fun to the world of crypto. Ethel is known for her
+          A mischievous little black sheep named Black Ether, leads the charge in
+          bringing humor and fun to the world of crypto. Black Ether is known for her
           misadventures, constantly getting into hilarious situations while
           navigating the blockchain. From accidentally stumbling upon hidden
           treasure troves of tokens to playfully pranking unsuspecting users
-          with harmless jokes, Ethel's antics inject a sense of joy and
+          with harmless jokes, Black Ether's antics inject a sense of joy and
           amusement into the crypto space.
         </p>
 
