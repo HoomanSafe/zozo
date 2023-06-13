@@ -7,7 +7,8 @@ const Hero = () => {
       <div className="container grid gap-5 text-center justify-center items-center">
         <img src={Logo} alt="" className="md:w-[30rem]" />
         <h1 className="font-bold text-5xl capitalize font-primary">
-          Black Ether's mascot
+          Black Ether's 
+          
         </h1>
         <p className="max-w-[600px] ">
           A mischievous little black sheep named Ethel, leads the charge in
