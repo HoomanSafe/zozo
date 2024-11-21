@@ -14,7 +14,7 @@ const Header = () => {
           <a href="" className=" ">
             <img src={Dextool} alt="" className="w-[2rem] transition " />
           </a>
-          <a href="https://t.me/ZozoBNB" target="_blank" className=" ">
+          <a href="https://x.com/ZozoZozoBNB" target="_blank" className=" ">
             <img src={Telegram} alt="" className="w-[2rem] transition " />
           </a>
           <a
