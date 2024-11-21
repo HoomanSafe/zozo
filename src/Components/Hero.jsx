@@ -1,5 +1,5 @@
 import React from "react";
-import Logo from "../assets/logo3.png";
+import Logo from "../assets/banner.jpeg";
 
 const Hero = () => {
   return (
@@ -7,17 +7,13 @@ const Hero = () => {
       <div className="container grid gap-5 text-center justify-center items-center">
         <img src={Logo} alt="" className="md:w-[30rem]" />
         <h1 className="font-bold text-5xl capitalize font-primary">
-          Black Ether
+          ZoZo
 
         </h1>
         <p className="max-w-[600px] ">
-          A mischievous little black sheep named Black Ether, leads the charge in
-          bringing humor and fun to the world of crypto. Black Ether is known for her
-          misadventures, constantly getting into hilarious situations while
-          navigating the blockchain. From accidentally stumbling upon hidden
-          treasure troves of tokens to playfully pranking unsuspecting users
-          with harmless jokes, Black Ether's antics inject a sense of joy and
-          amusement into the crypto space.
+          Once a resident of Monstropolis, he is now shaping the future of crypto, leaving his days of hoovering up behind him.
+
+
         </p>
 
         <div className=" flex justify-center items-center">
@@ -27,7 +23,7 @@ const Hero = () => {
         </div>
         <div className="flex justify-center items-center gap-5 mt-10">
           <a
-            href="https://t.me/BlackEtherportal" target="_blank"
+            href="https://t.me/ZozoBNB" target="_blank"
             className="px-10 py-4 bg-white text-black font-primary cap border-black border-2 uppercase"
           >
             telegram
