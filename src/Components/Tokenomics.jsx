@@ -10,19 +10,19 @@ const Tokenomics = () => {
         <div className="flex mt-14 flex-col justify-center items-center gap-4">
           <article className="flex gap-4 items-center font-primary text-2xl tracking-wide">
             <div className="w-[40px] h-[40px] bg-white rounded-full"></div>
-            <p>1million supply</p>
+            <p>200,000,000,000,000,000 supply</p>
           </article>
           <article className="flex gap-4 items-center font-primary text-2xl tracking-wide">
             <div className="w-[40px] h-[40px] bg-transparent border-2 border-white rounded-full"></div>
-            <p>name: black ether</p>
+            <p>name: ZoZo</p>
           </article>
           <article className="flex gap-4 items-center font-primary text-2xl tracking-wide">
             <div className="w-[40px] h-[40px] bg-white rounded-full"></div>
-            <p>2%: max wallet</p>
+            <p>5%: tax buy and sell</p>
           </article>
           <article className="flex gap-4 items-center font-primary text-2xl tracking-wide">
             <div className="w-[40px] h-[40px] bg-white rounded-full"></div>
-            <p>ticker: #BEther</p>
+            <p>ticker: $ZOZO</p>
           </article>
         </div>
       </div>
