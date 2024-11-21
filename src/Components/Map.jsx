@@ -12,11 +12,11 @@ const Map = () => {
           <article className="min-h-[200px] text-white rounded-bl-3xl rounded-se-3xl p-4 w-full md:w-[500px] bg-black">
             <h1 className="font-primary text-2xl text-start">phase 1</h1>
             <ul className="flex flex-col text-start font-primary list-disc list-inside gap-2 mt-4">
-              <li>stealth launch on eth</li>
+              <li>stealth launch on bsc</li>
               <li>community & socials growth</li>
               <li>website launch</li>
               <li>marketing map</li>
-              <li>eth trending</li>
+              <li>bsc trending</li>
               <li>listing on dextool</li>
             </ul>
           </article>
@@ -28,7 +28,7 @@ const Map = () => {
               <li>listing on coingecko</li>
               <li>1million market cap</li>
               <li>heavy marketing push</li>
-              <li>eth trending </li>
+              <li>bsc trending </li>
             </ul>
           </article>
         </div>
