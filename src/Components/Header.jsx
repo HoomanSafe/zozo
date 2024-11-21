@@ -8,17 +8,17 @@ const Header = () => {
     <header className="py-3 w-full bg-white text-black absolute top-0 z-50">
       <nav className="container flex justify-between items-center">
         <a href="" className="font-primary capitalize text-3xl">
-          black ether
+          ZoZo
         </a>
         <div className="flex gap-3 items-center ">
           <a href="" className=" ">
             <img src={Dextool} alt="" className="w-[2rem] transition " />
           </a>
-          <a href="https://t.me/BlackEtherportal" target="_blank" className=" ">
+          <a href="https://t.me/ZozoBNB" target="_blank" className=" ">
             <img src={Telegram} alt="" className="w-[2rem] transition " />
           </a>
           <a
-            href="https://twitter.com/BlackEthercoin"
+            href="http://x.com/ZozoBNB"
             target="_blank"
             className=" "
           >
