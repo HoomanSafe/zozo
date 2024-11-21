@@ -18,7 +18,7 @@ const Hero = () => {
 
         <div className=" flex justify-center items-center">
           <article className="min-w-10/12 py-5 px-3 border-2 border-white">
-            0x0000000000000000000000000000
+            0x2f3462413174A61BEabFA41658b4120df2F53a48
           </article>
         </div>
         <div className="flex justify-center items-center gap-5 mt-10">
